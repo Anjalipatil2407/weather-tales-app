@@ -1,0 +1,7 @@
+{
+  "name": "Weather Tales",
+  "description": "A creative writing companion that weaves stories based on real-time weather conditions using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
